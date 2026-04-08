@@ -2,6 +2,10 @@
 Proyecto del gevockiano(con corchos y dof)
 
 
+------ Requerimientos ------
+
+https://docs.google.com/document/d/1H1YE4BBb6kGwRqqhezLxAyvN8nsTdn-_vXyOAkDHdo0/edit?usp=sharing
+
 ------- Documentos -------
 
 1- Sprints e Historias de Usuario: https://docs.google.com/document/d/18h_IjmSVEWqKOYoBi_ZLouGjWjxIb3tTjlzf5rTnhSw/edit?usp=sharing
