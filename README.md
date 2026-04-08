@@ -4,7 +4,7 @@ Proyecto del gevockiano(con corchos y dof)
 
 ------ Requerimientos ------
 
-https://docs.google.com/document/d/1H1YE4BBb6kGwRqqhezLxAyvN8nsTdn-_vXyOAkDHdo0/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1n55_7ZqnX_yveE6FrpkQDVo0zbjLoi7h/edit?usp=sharing&ouid=103502071425453241921&rtpof=true&sd=true
 
 ------- Documentos -------
 
